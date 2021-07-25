@@ -5,11 +5,11 @@
 </p>
 
 > ## ***Task Description:***
-🔷 ***Create a key pair***
-🔷 ***Create a security group***
-🔷 ***Launch an instance using the above created key pair and security group.***
-🔷 ***Create an EBS volume of 1 GB.***
-🔷 ***The final step is to attach the above created EBS volume to the instance you created in the previous steps.***
+🔷 ***Create a key pair*** </br>
+🔷 ***Create a security group*** </br>
+🔷 ***Launch an instance using the above created key pair and security group.*** </br>
+🔷 ***Create an EBS volume of 1 GB.*** </br>
+🔷 ***The final step is to attach the above created EBS volume to the instance you created in the previous steps.*** </br>
 
 ## ***Prerequisite:***
 <b><i>
